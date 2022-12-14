@@ -4,7 +4,7 @@
       "name": "Astroport",
       "website": "https://astroport.fi",
       "github": "astroport-fi",
-      "logo": "https://app.astroport.fi/logo.svg",
+      "logo": "astroport.png",
       "socials": [
         {
           "name": "twitter",
@@ -190,7 +190,7 @@
       "name": "Knowhere",
       "website": "https://knowhere.art",
       "github": "N/A",
-      "logo": "https://knowhere.art/static/images/logo.svg",
+      "logo": "knowhere.png",
       "socials": [
         {
           "name": "twitter",
@@ -216,7 +216,7 @@
       "name": "Orne",
       "website": "https://orne.io",
       "github": "orne-io",
-      "logo": "https://knowhere.art/static/images/logo.svg",
+      "logo": "orne.png",
       "socials": [
         {
           "name": "twitter",
@@ -246,7 +246,7 @@
       "name": "Prism",
       "website": "https://prismprotocol.app",
       "github": "prism-finance",
-      "logo": "https://extraterra-assets.s3.us-east-2.amazonaws.com/images/SVG/PRISM.svg",
+      "logo": "prism.png",
       "socials": [
         {
           "name": "twitter",
@@ -276,7 +276,7 @@
       "name": "Spectrum",
       "website": "https://spec.finance",
       "github": "spectrumprotocol",
-      "logo": "https://extraterra-assets.s3.us-east-2.amazonaws.com/images/SPEC60.png",
+      "logo": "spectrum.png",
       "socials": [
         {
           "name": "twitter",
@@ -326,7 +326,7 @@
       "name": "Stader",
       "website": "https://staderlabs.com",
       "github": "stader-labs",
-      "logo": "https://extraterra-assets.s3.us-east-2.amazonaws.com/images/STADER100.png",
+      "logo": "stader.png",
       "socials": [
         {
           "name": "twitter",
@@ -372,7 +372,7 @@
       "name": "Steak",
       "website": "https://liquidstaking.app/",
       "github": "PFC-developer",
-      "logo": "https://extraterra-assets.s3.us-east-2.amazonaws.com/images/SVG/STEAK.svg",
+      "logo": "steak.png",
       "socials": [
         {
           "name": "twitter",
@@ -402,7 +402,7 @@
       "name": "Terra Poker",
       "website": "https://terra.poker",
       "github": "N/A",
-      "logo": "https://extraterra-assets.s3.us-east-2.amazonaws.com/images/TPT.png",
+      "logo": "terra-poker.png",
       "socials": [
         {
           "name": "twitter",
@@ -432,7 +432,7 @@
       "name": "Terraswap",
       "website": "https://terraswap.io",
       "github": "terraswap",
-      "logo": "https://extraterra-assets.s3.us-east-2.amazonaws.com/images/TERRASWAP100.png",
+      "logo": "terraswap.png",
       "socials": [
         {
           "name": "twitter",
@@ -502,7 +502,7 @@
       "name": "Valkyrie",
       "website": "https://valkyrieprotocol.com",
       "github": "valkyrieprotocol",
-      "logo": "https://extraterra-assets.s3.us-east-2.amazonaws.com/images/VKR60.png",
+      "logo": "valkyrie.png",
       "socials": [
         {
           "name": "twitter",
@@ -560,7 +560,7 @@
         "name": "Wormhole",
         "website": "https://wormhole.com",
         "github": "wormhole-foundation",
-        "logo": "https://extraterra-assets.s3.us-east-2.amazonaws.com/images/wormhole.png",
+        "logo": "wormhole.png",
         "social": [
             {
                 "name": "twitter",

@@ -1577,8 +1577,8 @@
   {
     "name": "ION DAO",
     "website": "https://ion.wtf",
-    "github": "N/A",
-    "logo": "https://pbs.twimg.com/profile_images/1535075102836006912/RiL4IERI_400x400.jpg",
+    "github": "",
+    "logo": "ion-dao.png",
     "socials": [
       {
         "name": "twitter",
@@ -1591,6 +1591,26 @@
       {
         "name": "discord",
         "url": "https://discord.com/invite/9gD5wDaZWU"
+      }
+    ]
+  },
+  {
+    "name": "Osmosis Labs",
+    "website": "https://osmosis.zone",
+    "github": "osmosis-labs",
+    "logo": "osmosis.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/osmosiszone"
+      },
+      {
+        "name": "telegram",
+        "url": " https://t.me/osmosis_chat"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/osmosis"
       }
     ]
   }

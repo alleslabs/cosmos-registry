@@ -1,0 +1,17 @@
+[
+  {
+    "slug": "ion-dao",
+    "name": "Staking Governance",
+    "address": "osmo1yg8930mj8pk288lmkjex0qz85mj8wgtns5uzwyn2hs25pwdnw42sf745wc"
+  },
+  {
+    "slug": "ion-dao",
+    "name": "Governance",
+    "address": "osmo1k8re7jwz6rnnwrktnejdwkwnncte7ek7gt29gvnl3sdrg9mtnqkse6nmqm"
+  },
+  {
+    "slug": "osmosis",
+    "name": "IBC Rate Limiting",
+    "address": "osmo17r7qdw2zk6jyw62cvwm6flmhtj9q7zd26r8zc6sqyf0pnaq46cfss8hgxg"
+  }
+]

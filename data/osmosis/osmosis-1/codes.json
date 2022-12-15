@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "apollodao",
+    "name": "Multisig",
+    "id": "1"
+  },
+  {
+    "slug": "apollodao",
+    "name": "Liquid Staking",
+    "id": 5
+  },
+  {
+    "slug": "ion-dao",
+    "name": "Governance Staking",
+    "id": "2"
+  },
+  {
+    "slug": "ion-dao",
+    "name": "Governance",
+    "id": 3
+  },
+  {
+    "slug": "osmosis",
+    "name": "IBC Rate Limiting",
+    "id": "6"
+  }
+]

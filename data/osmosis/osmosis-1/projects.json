@@ -3,15 +3,24 @@
     "slug": "apollodao",
     "codes": [
       {
-        "name": "Apollo Multisig",
+        "name": "Multisig",
         "id": "1"
+      },
+      {
+        "name": "Liquid Staking",
+        "id": 5
       }
     ],
     "contracts": [],
-    "accounts": []
+    "accounts": [
+      {
+        "name": "Deployer",
+        "address": "osmo1jxdhfvhedn3gv8fnmn4crzkevqfkm29me0pnht"
+      }
+    ]
   },
   {
-    "slug":"ion-dao",
+    "slug": "ion-dao",
     "codes": [
       {
         "name": "Governance Staking",
@@ -22,7 +31,37 @@
         "id": 3
       }
     ],
-    "contracts": [],
+    "contracts": [
+      {
+        "name": "Staking Governance",
+        "address": "osmo1yg8930mj8pk288lmkjex0qz85mj8wgtns5uzwyn2hs25pwdnw42sf745wc"
+      },
+      {
+        "name": "Governance",
+        "address": "osmo1k8re7jwz6rnnwrktnejdwkwnncte7ek7gt29gvnl3sdrg9mtnqkse6nmqm"
+      }
+    ],
+    "accounts": [
+      {
+        "name": "Deployer",
+        "address": "osmo14lr70k43wdry3fxl5ykkh630jhas2nsp8re0e4"
+      }
+    ]
+  },
+  {
+    "slug": "osmosis",
+    "codes": [
+      {
+        "name": "IBC Rate Limiting",
+        "id": "6"
+      }
+    ],
+    "contracts": [
+      {
+        "name": "IBC Rate Limiting",
+        "address": "osmo17r7qdw2zk6jyw62cvwm6flmhtj9q7zd26r8zc6sqyf0pnaq46cfss8hgxg"
+      }
+    ],
     "accounts": []
   }
 ]

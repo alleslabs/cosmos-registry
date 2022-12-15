@@ -1,0 +1,12 @@
+[
+  {
+    "slug": "apollodao",
+    "name": "Deployer",
+    "address": "osmo1jxdhfvhedn3gv8fnmn4crzkevqfkm29me0pnht"
+  },
+  {
+    "slug": "ion-dao",
+    "name": "Deployer",
+    "address": "osmo14lr70k43wdry3fxl5ykkh630jhas2nsp8re0e4"
+  }
+]

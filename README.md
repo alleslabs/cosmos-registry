@@ -28,7 +28,16 @@ type Entity = {
 }
 ```
 
+For each network, there are then 4 JSON files that outlines the on-chain data relating to one or more of the entities, tied together by the entity's `slug`
+
+- codes
+- contracts
+- accounts
+- projects
+
 ### Codes
+
+Contains all of the labelled contract code IDs on the network belonging to the known entities.
 
 ```ts
 type Code = {
@@ -43,6 +52,8 @@ type Code = {
 
 ### Contracts
 
+Contains all of the labelled contract addresses on the network belonging to the known entities.
+
 ```ts
 type Contract = {
     // The slug identifier for the owner entity
@@ -56,6 +67,8 @@ type Contract = {
 
 ### Accounts
 
+Contains all of the labelled accounts on the network belonging to the known entities.
+
 ```ts
 type Account = {
     // The slug identifier for the owner entity
@@ -68,6 +81,8 @@ type Account = {
 ```
 
 ### Projects
+
+Contains aggregated information on all of the contracts, codes, and accounts belonging to the known entites on the network.
 
 ```ts
 type Project = {

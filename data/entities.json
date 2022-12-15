@@ -504,7 +504,7 @@
     ]
   },
   {
-    "slug": "tfl",
+    "slug": "terra",
     "name": "TFL",
     "website": "https://terra.money",
     "github": "terra-money",
@@ -945,7 +945,7 @@
     ]
   },
   {
-    "slug": "tix-protocol",
+    "slug": "tix",
     "name": "Tix Protocol",
     "website": "",
     "github": "",
@@ -1008,7 +1008,7 @@
     ]
   },
   {
-    "slug": "kado-money",
+    "slug": "kado",
     "name": "Kado Money",
     "website": "https://kado.money",
     "github": "",
@@ -1176,7 +1176,7 @@
     ]
   },
   {
-    "slug": "eris-protocol",
+    "slug": "eris",
     "name": "Eris Protocol",
     "website": "https://erisprotocol.com",
     "github": "erisprotocol",
@@ -1575,6 +1575,7 @@
     ]
   },
   {
+    "slug": "ion-dao",
     "name": "ION DAO",
     "website": "https://ion.wtf",
     "github": "",
@@ -1595,6 +1596,7 @@
     ]
   },
   {
+    "slug": "osmosis",
     "name": "Osmosis Labs",
     "website": "https://osmosis.zone",
     "github": "osmosis-labs",

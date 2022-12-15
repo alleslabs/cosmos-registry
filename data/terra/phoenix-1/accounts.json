@@ -1,0 +1,427 @@
+[
+  {
+    "slug": "astroport",
+    "name": "Account 1",
+    "address": "terra1xqys9ke2y98puxvgmuc5px2yr6c563rhawy7h9"
+  },
+  {
+    "slug": "astroport",
+    "name": "Account 2",
+    "address": "terra15lt543vnsmceycvsa92nccp546sk3xa45p8xvx"
+  },
+  {
+    "slug": "astroport",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1ufthac7gfg7sa0q3dujmzczea4w5yukwps9825ghxsufrqk53dcqttsng2"
+  },
+  {
+    "slug": "astroport",
+    "name": "Temporary Multisig",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "Knowhere",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1fhgcg9jh4kgdl5v63wwfgh7kv5megs22pvadwv"
+  },
+  {
+    "slug": "orne",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra102d7hvknwqegydy03kfpapj3zn3m7hschy90qy"
+  },
+  {
+    "slug": "prism",
+    "name": "Account 1",
+    "address": "terra1dsdl47764znk0q0sp438rqnelfyrrss5d0vn03"
+  },
+  {
+    "slug": "prism",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1p54ah0d9rmgxk5mcl4lhms7pt5v6flyd4sxcf2"
+  },
+  {
+    "slug": "spectrum",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra12f4h5sk0mfmrvectgw3nns56rlp9za9z0hvvvv"
+  },
+  {
+    "slug": "stader",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1w8vaq4xd0vmv8l33d2v8cancwm95ft47t5wc0y"
+  },
+  {
+    "slug": "terraswap",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1hsykldx0edupvzpq020cwl6fkxr6m676fllrs8"
+  },
+  {
+    "slug": "valkyrie",
+    "name": "Account 1",
+    "address": "terra1vle5gvd8q5l7p6dg6h8y3rygylpnzmwzp0pdu9"
+  },
+  {
+    "slug": "valkyrie",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1uuauvfqn0mv78er6w6uj44uwgkfqv00n3m3rq3"
+  },
+  {
+    "slug": "aperture",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1pcqnws4d6c96882ejv6euwezmh24fm7xsxtz82"
+  },
+  {
+    "slug": "pavo",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1epsv0xfy9cqzj80d8rd62w8ku70j9n6lfx0wry"
+  },
+  {
+    "slug": "setten",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra190ggr8ahpa2kf7xd7mmngg4qlrs5m75570tcp4"
+  },
+  {
+    "slug": "galactic-punks",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1jkuzfgsygcjjqyfkec4xx32ft3w9t3789je377"
+  },
+  {
+    "slug": "astral-money",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1t29pcnex9w356vx9j3czczmvnglweun79qc7vd"
+  },
+  {
+    "slug": "apollodao",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1lp5qpaew3j7st98yslnrj4r63yke8vwc34y6uf5jcdu35va059dsxye54j"
+  },
+  {
+    "slug": "binance",
+    "name": "Account 1",
+    "address": "terra19scdgmvhj5rl7f66n06z5pescf0gmeysw6pjrz"
+  },
+  {
+    "slug": "binance",
+    "name": "Deposit",
+    "address": "terra1ncjg4a59x2pgvqy9qjyqprlj8lrwshm0wleht5"
+  },
+  {
+    "slug": "binance",
+    "name": "Withdraw",
+    "address": "terra18vnrzlzm2c4xfsx382pj2xndqtt00rvhu24sqe"
+  },
+  {
+    "slug": "capapult",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1cqc26lnatzxvu0z5nd4yx8m4ecllkm7jlj6nna"
+  },
+  {
+    "slug": "hermes",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra15w7ntdhcyfce3twyj5s73gm536q7vn8yf5vp6n"
+  },
+  {
+    "slug": "tfm",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra12yaws2qefaf9n7e9gu0qd6mdlqvg5520l65gjm"
+  },
+  {
+    "slug": "y-foundry-dao",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1c56njwtrg6hlgelly226snegtmtwvlsls85d592rggah3mecjxxqgwfd5d"
+  },
+  {
+    "slug": "terrafirma",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1gefdegujr5urhxtn4e9m9sh3sw8dy9pc24atfu"
+  },
+  {
+    "slug": "gravidao",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra16kg3e40kxn5juvcyvp0t8rkg8j2af8cha8jprv"
+  },
+  {
+    "slug": "tfl",
+    "name": "Account 1",
+    "address": "terra1dp0taj85ruc299rkdvzp4z5pfg6z6swaed74e6"
+  },
+  {
+    "slug": "hero-nft",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1a4mz3g5e0u26pknu3nyyh0wdqzfry4ucq64dqj"
+  },
+  {
+    "slug": "coinex",
+    "name": "Account 1",
+    "address": "terra1u2ynhr2y9ame80vf5nll0hmqkldkmrrq624r6m"
+  },
+  {
+    "slug": "coinhall",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra18stcc5du0rvzps4069vkhrf92tf9jtq29w38pg"
+  },
+  {
+    "slug": "andromeda",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1zc22aslphuhg3qhs6sk86h27gtxkkf8tf44l9n"
+  },
+  {
+    "slug": "paywithterra",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra13qw6pcnztd0g0nakqp6fpr2mz0aqn3hdl7qkxw"
+  },
+  {
+    "slug": "core-distribution-module",
+    "name": "Gas Fee Pool",
+    "address": "terra17xpfvakm2amg962yls6f84z3kell8c5lkaeqfa"
+  },
+  {
+    "slug": "core-distribution-module",
+    "name": "Main Distributor",
+    "address": "terra1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8pm7utl"
+  },
+  {
+    "slug": "wicca",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1nc4mwpxturk73m26rra6j737uss90cz2n4sr8v"
+  },
+  {
+    "slug": "kraken",
+    "name": "Account 1",
+    "address": "terra1nm0rrq86ucezaf8uj35pq9fpwr5r82clp5z7r5"
+  },
+  {
+    "slug": "moonpay",
+    "name": "Account 1",
+    "address": "terra1u4kjc9nej0ft9wgpl65fpjs2367ku3gh2g9pka"
+  },
+  {
+    "slug": "edge",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1532yxrh3n9gux2420nr85lav66k9tgxreq2936"
+  },
+  {
+    "slug": "cyberdeck",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1t7awtndqgc2t2289rfevry3p5pw0lg3lzz6qcn"
+  },
+  {
+    "slug": "lfg",
+    "name": "Account 1",
+    "address": "terra1gr0xesnseevzt3h4nxr64sh5gk4dwrwgszx3nw"
+  },
+  {
+    "slug": "arbie",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra142a8p77re5c7qjh6qvsst0l40nl3lfp6mvlu99"
+  },
+  {
+    "slug": "okcoin",
+    "name": "Account 1",
+    "address": "terra16jpsrgl423fqg6n0e9edllew9z0gm7rhl5300u"
+  },
+  {
+    "slug": "redacted-money",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra12kc0xfvw4u2z6p89vfpzdgwpfmhwe5sd48jjgm"
+  },
+  {
+    "slug": "talis",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1mqkx90dhyfhrqe0qkqw5eycst5akegs47hvt64"
+  },
+  {
+    "slug": "upbit",
+    "name": "Account 1",
+    "address": "terra1t28h4fg8gjpggvq985d2zz569qj8hpxnsxcx93"
+  },
+  {
+    "slug": "validator-dao",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1equ5u2v89jmantmj0zajsdxhvjc8jdv96mz7ny"
+  },
+  {
+    "slug": "huobi",
+    "name": "Account 1",
+    "address": "terra1teescurtylg20tw3fu8cn2p7qe3klpk6f4s9uq"
+  },
+  {
+    "slug": "packs",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1fj39kyjexh4g7mj559n0utctl6504976lv862d"
+  },
+  {
+    "slug": "tix-protocol",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1j267ydrhaju93rj88s9th8tw9y9jd0qrfuyys5"
+  },
+  {
+    "slug": "builder-council",
+    "name": "Emergency Allocation Distributor",
+    "address": "terra1exqfh9ahyzm9g8z3ce57eyuxx72vem63utepjsf6stqtrztyz58spaf8ew"
+  },
+  {
+    "slug": "white-whale",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra15zg85d7wsmmg9hp2v5fjz8djyw3mk63ku702h0"
+  },
+  {
+    "slug": "kado-money",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra17qpf86uk800le0wmwmvf3khyy40ywrrdd5wa3c"
+  },
+  {
+    "slug": "ftx",
+    "name": "Account 1",
+    "address": "terra1luagdjcr9c9yvp3ak4d7chjm5gldcmgln5rku5"
+  },
+  {
+    "slug": "terrascope",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1gry4gtfn2pm4mv9kptzsandy7a6x7w27cvrrun"
+  },
+  {
+    "slug": "newton",
+    "name": "Account 1",
+    "address": "terra12gmawj54szkfwx0hhx4dhftpz4mc4z0yg9f3sz"
+  },
+  {
+    "slug": "terran-one",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1tayu9qtxgs2eeejr5lehvswfk2ahp7cmg63uyv"
+  },
+  {
+    "slug": "nftswitch",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1s9w9rpxfgyds5yv8rqnlrfv4wgkhy6syvdrm42"
+  },
+  {
+    "slug": "bithumb",
+    "name": "Account 1",
+    "address": "terra1ksua3uylq7t46kdumhmepywe8u3nglpku8xsk9"
+  },
+  {
+    "slug": "pulsar",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1c95zr0hky75q0ll9s39qng8m337u8s9caj3q8g"
+  },
+  {
+    "slug": "eris-protocol",
+    "name": "Account 1",
+    "address": "terra1kefa2zgjn45ctj32d3tje5jdwus7px6n2klgzl"
+  },
+  {
+    "slug": "eris-protocol",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1alxk3fmhcl0ga80gl9yj9zp3ezjm4sdh8a9l9c"
+  },
+  {
+    "slug": "ibc-transfer-module",
+    "name": "Account 1",
+    "address": "terra1yl6hdjhmkf37639730gffanpzndzdpmhgmvf4r"
+  },
+  {
+    "slug": "illiquid-labs",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1r737l3gqezy4lfxjg5yua3kqs0qe4kjf6y9tq9"
+  },
+  {
+    "slug": "risk-harbor",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1kgvq20ecx89fpungzqh72605mhjemws29s0jn7"
+  },
+  {
+    "slug": "sayve",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra17nwgfpcaml7hslyug72rdpfgnrcsgcf9g9kc0k"
+  },
+  {
+    "slug": "trackterra",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1cmtruuaxvafqnsxjxfgwgepnnkh3pmz8t9jc058rlsr6qsz3ulrqvj27uc"
+  },
+  {
+    "slug": "randomearth",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra12w0u3jx702yc50zw0kuafg3fgxkv2h8cggryx0"
+  },
+  {
+    "slug": "okx",
+    "name": "Deposit",
+    "address": "terra1axvrq8ysvyay8zs8ye7zgutucqk9k0mfydu3gl"
+  },
+  {
+    "slug": "okx",
+    "name": "Withdraw",
+    "address": "terra13s4gwzxv6dycfctvddfuy6r3zm7d6zklynzzj5"
+  },
+  {
+    "slug": "neptune",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1dzyexvmnwce855tcrerszch89cnk408mrp3l34"
+  },
+  {
+    "slug": "leap",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1308d2k69eg57c7d5cv3f92lhefvzrpw9zgzauf"
+  },
+  {
+    "slug": "kucoin",
+    "name": "Deposit",
+    "address": "terra14l46jrdgdhaw4cejukx50ndp0hss95ekt2kfmw"
+  },
+  {
+    "slug": "kucoin",
+    "name": "Withdraw",
+    "address": "terra1rvxcszyfecrt2v3a7md8p30hvu39kj6xf48w9e"
+  },
+  {
+    "slug": "tiiik",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra10qmv8p8gt9sn7ae4jdw4qyyrdadenvny4s64qg"
+  },
+  {
+    "slug": "core-staking-module",
+    "name": "Delegation Pool",
+    "address": "terra1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3nln0mh"
+  },
+  {
+    "slug": "core-staking-module",
+    "name": "Redelegation & Undelegation Pool",
+    "address": "terra1tygms3xhhs3yv487phx3dw4a95jn7t7l8l07dr"
+  },
+  {
+    "slug": "zodiac",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1q28hkv34cgjsu0kyjp86fmxptz3wtgx4e42hw2"
+  },
+  {
+    "slug": "skip",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1rlsgc3cyaelrzukg7qlkxx2dd3wde6c47cact6"
+  },
+  {
+    "slug": "outlet",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1h73a54a35tq2lmmrmmlfn337cp560jhwfs5pu8"
+  },
+  {
+    "slug": "coinone",
+    "name": "Deposit",
+    "address": "terra1v9ku44wycfnsucez6fp085f5fsksp47u9x8jr4"
+  },
+  {
+    "slug": "coinone",
+    "name": "Withdraw",
+    "address": "terra1al546tmrj0wmwfctcqkch47h57h23mch7d8xqa"
+  },
+  {
+    "slug": "scv",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra1lglw56z7xzg7hk7pcdsuwkw8xp9pckdwtr2gu4"
+  },
+  {
+    "slug": "obi",
+    "name": "Emergency Allocation Receiver",
+    "address": "terra17mp0nkl20epwy4kt5638avpvejwaw7v8ukwy6t"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "slug": "apollodao",
+    "codes": [
+      {
+        "name": "Apollo Multisig",
+        "id": "1"
+      }
+    ],
+    "contracts": [],
+    "accounts": []
+  },
+  {
+    "slug":"ion-dao",
+    "codes": [
+      {
+        "name": "Governance Staking",
+        "id": "2"
+      },
+      {
+        "name": "Governance",
+        "id": 3
+      }
+    ],
+    "contracts": [],
+    "accounts": []
+  }
+]

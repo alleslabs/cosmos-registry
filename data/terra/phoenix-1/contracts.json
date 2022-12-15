@@ -1,0 +1,432 @@
+[
+  {
+    "slug": "astroport",
+    "name": "Airdrop Registry",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "Temporary Multisig",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "Factory",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "Router",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "xASTRO Staking",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "Maker",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "Generator",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "Generator Vesting",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "Whitelist",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "Generator Proxy (VKR)",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "Assembly",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "Builder Unlocking Contract",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "Treasury",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "ASTRO token",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "xASTRO Token",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "Pair (LUNA-axlUSDC)",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "LP Token (LUNA-axlUSDC)",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "Pair (LUNA-TPT)",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "LP Token (LUNA-TPT)",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "Pair (axlUSDT-axlUSDC)",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "LP Token (axlUSDT-axlUSDC)",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "Pair (LUNA-LunaX)",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "LP Token (LUNA-LunaX)",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "Pair (ASTRO-axlUSDC)",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "LP Token (ASTRO-axlUSDC)",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "Pair (ASTRO-LUNA)",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "LP Token (ASTRO-LUNA)",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "Pair (ampLUNA-LUNA)",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "LP Token (ampLUNA-LUNA)",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "Pair (FATMAN-LUNA)",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "LP Token (FATMAN-LUNA)",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "Pair (LUNA-STEAK)",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "LP Token (LUNA-STEAK)",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "Pair (VKR-axlUSDC)",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "LP Token (VKR-axlUSDC)",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "Pair (ASTRO-xASTRO)",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "LP Token (ASTRO-xASTRO)",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "Pair (LUNA-cLUNA)",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "LP Token (LUNA-cLUNA)",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "Pair (ORNE-LUNA)",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "astroport",
+    "name": "LP Token (ORNE-LUNA)",
+    "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw"
+  },
+  {
+    "slug": "Knowhere",
+    "name": "Marketplace",
+    "address": "terra1fhgcg9jh4kgdl5v63wwfgh7kv5megs22pvadwv"
+  },
+  {
+    "slug": "orne",
+    "name": "Airdrop Registry",
+    "address": "terra102d7hvknwqegydy03kfpapj3zn3m7hschy90qy"
+  },
+  {
+    "slug": "orne",
+    "name": "ORNE Token",
+    "address": "terra102d7hvknwqegydy03kfpapj3zn3m7hschy90qy"
+  },
+  {
+    "slug": "prism",
+    "name": "Hub",
+    "address": "terra1p54ah0d9rmgxk5mcl4lhms7pt5v6flyd4sxcf2"
+  },
+  {
+    "slug": "prism",
+    "name": "cLUNA Token",
+    "address": "terra1p54ah0d9rmgxk5mcl4lhms7pt5v6flyd4sxcf2"
+  },
+  {
+    "slug": "spectrum",
+    "name": "Farm (LUNA-LunaX)",
+    "address": "terra12f4h5sk0mfmrvectgw3nns56rlp9za9z0hvvvv"
+  },
+  {
+    "slug": "spectrum",
+    "name": "Farm (LUNA-axlUSDC)",
+    "address": "terra12f4h5sk0mfmrvectgw3nns56rlp9za9z0hvvvv"
+  },
+  {
+    "slug": "spectrum",
+    "name": "Farm (ASTRO-axlUSDC)",
+    "address": "terra12f4h5sk0mfmrvectgw3nns56rlp9za9z0hvvvv"
+  },
+  {
+    "slug": "spectrum",
+    "name": "Farm (LUNA-TPT)",
+    "address": "terra12f4h5sk0mfmrvectgw3nns56rlp9za9z0hvvvv"
+  },
+  {
+    "slug": "spectrum",
+    "name": "Compound Proxy (ASTRO-axlUSDC)",
+    "address": "terra12f4h5sk0mfmrvectgw3nns56rlp9za9z0hvvvv"
+  },
+  {
+    "slug": "spectrum",
+    "name": "Astroport Generator Proxy",
+    "address": "terra12f4h5sk0mfmrvectgw3nns56rlp9za9z0hvvvv"
+  },
+  {
+    "slug": "spectrum",
+    "name": "Fees Collector",
+    "address": "terra12f4h5sk0mfmrvectgw3nns56rlp9za9z0hvvvv"
+  },
+  {
+    "slug": "stader",
+    "name": "LunaX Token",
+    "address": "terra1w8vaq4xd0vmv8l33d2v8cancwm95ft47t5wc0y"
+  },
+  {
+    "slug": "stader",
+    "name": "LunaX Staking",
+    "address": "terra1w8vaq4xd0vmv8l33d2v8cancwm95ft47t5wc0y"
+  },
+  {
+    "slug": "stader",
+    "name": "Airdrop Registry",
+    "address": "terra1w8vaq4xd0vmv8l33d2v8cancwm95ft47t5wc0y"
+  },
+  {
+    "slug": "stader",
+    "name": "LunaX Reward",
+    "address": "terra1w8vaq4xd0vmv8l33d2v8cancwm95ft47t5wc0y"
+  },
+  {
+    "slug": "stader",
+    "name": "Staking Pool (Zero Commission)",
+    "address": "terra1w8vaq4xd0vmv8l33d2v8cancwm95ft47t5wc0y"
+  },
+  {
+    "slug": "stader",
+    "name": "Staking Pool (Community)",
+    "address": "terra1w8vaq4xd0vmv8l33d2v8cancwm95ft47t5wc0y"
+  },
+  {
+    "slug": "steak",
+    "name": "STEAK Token",
+    "address": "terra1w8vaq4xd0vmv8l33d2v8cancwm95ft47t5wc0y"
+  },
+  {
+    "slug": "steak",
+    "name": "Liquid Staking Hub",
+    "address": "terra1w8vaq4xd0vmv8l33d2v8cancwm95ft47t5wc0y"
+  },
+  {
+    "slug": "terra-poker",
+    "name": "TPT Token",
+    "address": "terra1w8vaq4xd0vmv8l33d2v8cancwm95ft47t5wc0y"
+  },
+  {
+    "slug": "terra-poker",
+    "name": "xTPT Token",
+    "address": "terra1w8vaq4xd0vmv8l33d2v8cancwm95ft47t5wc0y"
+  },
+  {
+    "slug": "terraswap",
+    "name": "Factory",
+    "address": "terra1hsykldx0edupvzpq020cwl6fkxr6m676fllrs8"
+  },
+  {
+    "slug": "terraswap",
+    "name": "Router",
+    "address": "terra1hsykldx0edupvzpq020cwl6fkxr6m676fllrs8"
+  },
+  {
+    "slug": "terraswap",
+    "name": "Pair (axlUSDT-axlUSDC)",
+    "address": "terra1hsykldx0edupvzpq020cwl6fkxr6m676fllrs8"
+  },
+  {
+    "slug": "terraswap",
+    "name": "LP Token (axlUSDT-axlUSDC)",
+    "address": "terra1hsykldx0edupvzpq020cwl6fkxr6m676fllrs8"
+  },
+  {
+    "slug": "terraswap",
+    "name": "Pair (LUNA-STEAK)",
+    "address": "terra1hsykldx0edupvzpq020cwl6fkxr6m676fllrs8"
+  },
+  {
+    "slug": "terraswap",
+    "name": "LP Token (LUNA-STEAK)",
+    "address": "terra1hsykldx0edupvzpq020cwl6fkxr6m676fllrs8"
+  },
+  {
+    "slug": "terraswap",
+    "name": "Pair (LUNA-axlUSDC)",
+    "address": "terra1hsykldx0edupvzpq020cwl6fkxr6m676fllrs8"
+  },
+  {
+    "slug": "terraswap",
+    "name": "LP Token (LUNA-axlUSDC)",
+    "address": "terra1hsykldx0edupvzpq020cwl6fkxr6m676fllrs8"
+  },
+  {
+    "slug": "terraswap",
+    "name": "Pair (LUNA-axlUSDT)",
+    "address": "terra1hsykldx0edupvzpq020cwl6fkxr6m676fllrs8"
+  },
+  {
+    "slug": "terraswap",
+    "name": "LP Token (LUNA-axlUSDT)",
+    "address": "terra1hsykldx0edupvzpq020cwl6fkxr6m676fllrs8"
+  },
+  {
+    "slug": "terraswap",
+    "name": "Pair (LUNA-LunaX)",
+    "address": "terra1hsykldx0edupvzpq020cwl6fkxr6m676fllrs8"
+  },
+  {
+    "slug": "terraswap",
+    "name": "LP Token (LUNA-LunaX)",
+    "address": "terra1hsykldx0edupvzpq020cwl6fkxr6m676fllrs8"
+  },
+  {
+    "slug": "valkyrie",
+    "name": "VKR Token",
+    "address": "terra1uuauvfqn0mv78er6w6uj44uwgkfqv00n3m3rq3"
+  },
+  {
+    "slug": "valkyrie",
+    "name": "LP Staking",
+    "address": "terra1uuauvfqn0mv78er6w6uj44uwgkfqv00n3m3rq3"
+  },
+  {
+    "slug": "valkyrie",
+    "name": "Valkyrian Pass",
+    "address": "terra1uuauvfqn0mv78er6w6uj44uwgkfqv00n3m3rq3"
+  },
+  {
+    "slug": "valkyrie",
+    "name": "Governance",
+    "address": "terra1uuauvfqn0mv78er6w6uj44uwgkfqv00n3m3rq3"
+  },
+  {
+    "slug": "valkyrie",
+    "name": "Proxy",
+    "address": "terra1uuauvfqn0mv78er6w6uj44uwgkfqv00n3m3rq3"
+  },
+  {
+    "slug": "valkyrie",
+    "name": "Airdrop",
+    "address": "terra1uuauvfqn0mv78er6w6uj44uwgkfqv00n3m3rq3"
+  },
+  {
+    "slug": "valkyrie",
+    "name": "VP Airdrop",
+    "address": "terra1uuauvfqn0mv78er6w6uj44uwgkfqv00n3m3rq3"
+  },
+  {
+    "slug": "valkyrie",
+    "name": "TPT IPC Qualifier",
+    "address": "terra1uuauvfqn0mv78er6w6uj44uwgkfqv00n3m3rq3"
+  },
+  {
+    "slug": "valkyrie",
+    "name": "Campaign Manager",
+    "address": "terra1uuauvfqn0mv78er6w6uj44uwgkfqv00n3m3rq3"
+  },
+  {
+    "slug": "wormhole",
+    "name": "Core Bridge",
+    "address": "terra1uuauvfqn0mv78er6w6uj44uwgkfqv00n3m3rq3"
+  },
+  {
+    "slug": "wormhole",
+    "name": "Token Bridge",
+    "address": "terra1uuauvfqn0mv78er6w6uj44uwgkfqv00n3m3rq3"
+  }
+]

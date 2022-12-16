@@ -1615,5 +1615,509 @@
         "url": "https://discord.com/invite/osmosis"
       }
     ]
+  },
+  {
+    "slug": "local",
+    "name": "Local",
+    "website": "https://localmoney.io",
+    "github": "local-money",
+    "logo": "local.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/teamlocalmoney"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/meXhfQ8TWr"
+      }
+    ]
+  },
+  {
+    "slug": "polygon",
+    "name": "Polygon",
+    "website": "https://polygon.technology",
+    "github": "maticnetwork",
+    "logo": "polygon.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/0xPolygon"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/polygonofficial"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/0xPolygon"
+      }
+    ]
+  },
+  {
+    "slug": "frax",
+    "name": "Frax",
+    "website": "https://frax.finance",
+    "github": "fraxfinance",
+    "logo": "frax.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/fraxfinance"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/fraxfinance"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/UJVtDTFRaA"
+      }
+    ]
+  },
+  {
+    "slug": "circle",
+    "name": "Circle",
+    "website": "https://circle.com",
+    "github": "",
+    "logo": "circle.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/circle"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/buildoncircle"
+      }
+    ]
+  },
+  {
+    "slug": "cosmos-hub",
+    "name": "Cosmos Hub",
+    "website": "https://cosmos.network",
+    "github": "cosmos",
+    "logo": "cosmos-hub.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/cosmoshub"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/cosmosproject"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/cosmosnetwork"
+      }
+    ]
+  },
+  {
+    "slug": "uniswap",
+    "name": "Uniswap",
+    "website": "https://uniswap.org",
+    "github": "uniswap",
+    "logo": "uniswap.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/uniswap"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/FCfyBSbCU5"
+      }
+    ]
+  },
+  {
+    "slug": "juno",
+    "name": "Juno",
+    "website": "https://www.junonetwork.io/",
+    "github": "cosmoscontracts",
+    "logo": "juno.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/JunoNetwork"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/JunoNetwork"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/Juno"
+      }
+    ]
+  },
+  {
+    "slug": "ethereum",
+    "name": "Ethereum",
+    "website": "https://ethereum.org/en/",
+    "github": "ethereum",
+    "logo": "ethereum.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/ethdotorg"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/CetY6Y4"
+      }
+    ]
+  },
+  {
+    "slug": "secret",
+    "name": "Secret",
+    "website": "https://scrt.network",
+    "github": "secretfoundation",
+    "logo": "secret.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/secretnetwork"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/SCRTcommunity"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/SJK32GY"
+      }
+    ]
+  },
+  {
+    "slug": "crescent",
+    "name": "Crescent",
+    "website": "https://crescent.network",
+    "github": "crescent-network",
+    "logo": "crescent.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/CrescentHub"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/crescentnetwork"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/ZUfrDnSX8G"
+      }
+    ]
+  },
+  {
+    "slug": "terrafloki",
+    "name": "Terra Floki",
+    "website": "https://terrafloki.io",
+    "github": "",
+    "logo": "terrafloki.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/FlokiPunk_Terra"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/terrafloki"
+      },
+      {
+        "name": "discord",
+        "url": "http://discord.gg/kre8hQa8CX"
+      }
+    ]
+  },
+  {
+    "slug": "chainlink",
+    "name": "Chainlink",
+    "website": "https://chainlink",
+    "github": "smartcontractkit",
+    "logo": "chainlink.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/chainlink"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/chainlinkofficial"
+      },
+      {
+        "name": "discord",
+        "url": "https://chain.link/discord"
+      }
+    ]
+  },
+  {
+    "slug": "graviton",
+    "name": "",
+    "website": "",
+    "github": "",
+    "logo": "graviton.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": ""
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "slug": "axelar",
+    "name": "Axelar",
+    "website": "https://axelar.network",
+    "github": "https://github.com/axelarnetwork",
+    "logo": "axelar.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/axelarcore"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/aRZ3Ra6f7D"
+      }
+    ]
+  },
+  {
+    "slug": "backbone-labs",
+    "name": "BackBone Labs",
+    "website": "https://backbonelabs.io",
+    "github": "",
+    "logo": "backbone-labs.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/BackBone_Labs"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/Wgq8K662f8"
+      }
+    ]
+  },
+  {
+    "slug": "makerdao",
+    "name": "Maker",
+    "website": "https://makerdao.com",
+    "github": "makerdao",
+    "logo": "makerdao.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/MakerDAO"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/makerdaoOfficial"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/RBRumCpEDH"
+      }
+    ]
+  },
+  {
+    "slug": "avalanche",
+    "name": "Avalanche",
+    "website": "https://avax.network",
+    "github": "ava-labs",
+    "logo": "avalanche.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/avalancheavax"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/avalancheavax"
+      },
+      {
+        "name": "discord",
+        "url": "https://chat.avax.network/"
+      }
+    ]
+  },
+  {
+    "slug": "aave",
+    "name": "Aave",
+    "website": "https://aave.com",
+    "github": "aave",
+    "logo": "aave.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/aaveaave"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/Aavesome"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/CvKUrqM"
+      }
+    ]
+  },
+  {
+    "slug": "lira",
+    "name": "Lira",
+    "website": "https://lira.financial",
+    "github": "",
+    "logo": "lira.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/lirafinancial"
+      },
+      {
+        "name": "telegram",
+        "url": " http://t.me/lirafinancial"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/T8xUu9nhFn"
+      }
+    ]
+  },
+  {
+    "slug": "kujira",
+    "name": "Kujira",
+    "website": "https://kujira.app",
+    "github": "team-kujira",
+    "logo": "kujira.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/TeamKujira"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/team_kujira"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/teamkujira"
+      }
+    ]
+  },
+  {
+    "slug": "mirror",
+    "name": "Mirror",
+    "website": "https://mirrorprotocol.app",
+    "github": "mirror-protocol",
+    "logo": "mirror.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/mirror_protocol"
+      },
+      {
+        "name": "telegram",
+        "url": "http://t.me/mirror_protocol"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "slug": "tether",
+    "name": "Tether",
+    "website": "https://tether.io",
+    "github": "",
+    "logo": "tether.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Tether_to"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/OfficialTether"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "slug": "solana",
+    "name": "Solana",
+    "website": "https://solana.com",
+    "github": "solana-labs",
+    "logo": "solana.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/solana"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/solana"
+      },
+      {
+        "name": "discord",
+        "url": "https://discordapp.com/invite/pquxPsq"
+      }
+    ]
+  },
+  {
+    "slug": "bitcoin",
+    "name": "Bitcoin",
+    "website": "https:/bitcoin.org",
+    "github": "bitcoin",
+    "logo": "bitcoin.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Bitcoin"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ]
   }
 ]

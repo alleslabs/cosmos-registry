@@ -2119,5 +2119,26 @@
         "url": ""
       }
     ]
+  },
+  {
+    "slug": "icns",
+    "name": "Interchain Name Service (ICNS)",
+    "website": "https:/icns.xyz",
+    "github": "icns-xyz",
+    "logo": "icns.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Bitcoin"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ]
   }
 ]

@@ -2,26 +2,33 @@
   {
     "slug": "apollodao",
     "name": "Multisig",
-    "id": "1"
+    "id": "1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
   },
   {
     "slug": "apollodao",
     "name": "Liquid Staking",
-    "id": 5
+    "id": 5,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
+
   },
   {
     "slug": "ion-dao",
     "name": "Governance Staking",
-    "id": "2"
+    "id": "2",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
   },
   {
     "slug": "ion-dao",
     "name": "Governance",
-    "id": 3
+    "id": 3,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
   },
   {
     "slug": "osmosis",
     "name": "IBC Rate Limiting",
-    "id": "6"
+    "id": "6",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
+
   }
 ]

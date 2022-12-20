@@ -47,6 +47,8 @@ type Code = {
     name: string
     // The ID of the code on-chain
     id: string
+    // A short description of the code
+    description: string | undefined
 }
 ```
 
@@ -62,6 +64,8 @@ type Contract = {
     name: string
     // The address of the smart contract
     address: string
+    // A short description of the contract
+    description: string | undefined
 }
 ```
 
@@ -77,6 +81,8 @@ type Account = {
     name: string
     // The address of the account
     address: string
+    // A short description of the account
+    description: string | undefined
 }
 ```
 
@@ -96,4 +102,3 @@ type Project = {
     accounts: Account[]
 }
 ```
-

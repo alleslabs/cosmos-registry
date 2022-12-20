@@ -2,11 +2,13 @@
   {
     "slug": "apollodao",
     "name": "Deployer",
-    "address": "osmo1jxdhfvhedn3gv8fnmn4crzkevqfkm29me0pnht"
+    "address": "osmo1jxdhfvhedn3gv8fnmn4crzkevqfkm29me0pnht",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
   },
   {
     "slug": "ion-dao",
     "name": "Deployer",
-    "address": "osmo14lr70k43wdry3fxl5ykkh630jhas2nsp8re0e4"
+    "address": "osmo14lr70k43wdry3fxl5ykkh630jhas2nsp8re0e4",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
   }
 ]

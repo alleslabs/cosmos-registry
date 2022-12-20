@@ -4,18 +4,21 @@
     "codes": [
       {
         "name": "Multisig",
-        "id": "1"
+        "id": "1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
       },
       {
         "name": "Liquid Staking",
-        "id": 5
+        "id": 5,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
       }
     ],
     "contracts": [],
     "accounts": [
       {
         "name": "Deployer",
-        "address": "osmo1jxdhfvhedn3gv8fnmn4crzkevqfkm29me0pnht"
+        "address": "osmo1jxdhfvhedn3gv8fnmn4crzkevqfkm29me0pnht",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
       }
     ]
   },
@@ -24,27 +27,32 @@
     "codes": [
       {
         "name": "Governance Staking",
-        "id": "2"
+        "id": "2",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
       },
       {
         "name": "Governance",
-        "id": 3
+        "id": 3,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
       }
     ],
     "contracts": [
       {
         "name": "Staking Governance",
-        "address": "osmo1yg8930mj8pk288lmkjex0qz85mj8wgtns5uzwyn2hs25pwdnw42sf745wc"
+        "address": "osmo1yg8930mj8pk288lmkjex0qz85mj8wgtns5uzwyn2hs25pwdnw42sf745wc",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
       },
       {
         "name": "Governance",
-        "address": "osmo1k8re7jwz6rnnwrktnejdwkwnncte7ek7gt29gvnl3sdrg9mtnqkse6nmqm"
+        "address": "osmo1k8re7jwz6rnnwrktnejdwkwnncte7ek7gt29gvnl3sdrg9mtnqkse6nmqm",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
       }
     ],
     "accounts": [
       {
         "name": "Deployer",
-        "address": "osmo14lr70k43wdry3fxl5ykkh630jhas2nsp8re0e4"
+        "address": "osmo14lr70k43wdry3fxl5ykkh630jhas2nsp8re0e4",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
       }
     ]
   },
@@ -53,13 +61,15 @@
     "codes": [
       {
         "name": "IBC Rate Limiting",
-        "id": "6"
+        "id": "6",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
       }
     ],
     "contracts": [
       {
         "name": "IBC Rate Limiting",
-        "address": "osmo17r7qdw2zk6jyw62cvwm6flmhtj9q7zd26r8zc6sqyf0pnaq46cfss8hgxg"
+        "address": "osmo17r7qdw2zk6jyw62cvwm6flmhtj9q7zd26r8zc6sqyf0pnaq46cfss8hgxg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
       }
     ],
     "accounts": []

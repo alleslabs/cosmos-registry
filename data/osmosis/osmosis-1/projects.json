@@ -5,12 +5,12 @@
       {
         "name": "Multisig",
         "id": "1",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
+        "description": "ApolloDAO CW3 multisig code"
       },
       {
         "name": "Liquid Staking",
         "id": 5,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
+        "description": "ApolloDAO liquid staking code"
       }
     ],
     "contracts": [],
@@ -18,7 +18,7 @@
       {
         "name": "Deployer",
         "address": "osmo1jxdhfvhedn3gv8fnmn4crzkevqfkm29me0pnht",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
+        "description": "Account owned by ApolloDAO used to deploy their CW3 multisig and liquid staking contracts."
       }
     ]
   },
@@ -28,31 +28,31 @@
       {
         "name": "Governance Staking",
         "id": "2",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
+        "description": "ION DAO governance staking code"
       },
       {
         "name": "Governance",
         "id": 3,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
+        "description": "ION DAO governance code"
       }
     ],
     "contracts": [
       {
         "name": "Staking Governance",
         "address": "osmo1yg8930mj8pk288lmkjex0qz85mj8wgtns5uzwyn2hs25pwdnw42sf745wc",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
+        "description": "ION DAO governance staking contract"
       },
       {
         "name": "Governance",
         "address": "osmo1k8re7jwz6rnnwrktnejdwkwnncte7ek7gt29gvnl3sdrg9mtnqkse6nmqm",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
+        "description": "ION DAO governance contract"
       }
     ],
     "accounts": [
       {
         "name": "Deployer",
         "address": "osmo14lr70k43wdry3fxl5ykkh630jhas2nsp8re0e4",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
+        "description": "Account owned by ION DAO used to deploy their CW3 multisig and liquid staking contracts."
       }
     ]
   },
@@ -62,14 +62,14 @@
       {
         "name": "IBC Rate Limiting",
         "id": "6",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
+        "description": "Contract code for rate limiting IBC transactions"
       }
     ],
     "contracts": [
       {
         "name": "IBC Rate Limiting",
         "address": "osmo17r7qdw2zk6jyw62cvwm6flmhtj9q7zd26r8zc6sqyf0pnaq46cfss8hgxg",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
+        "description": "Osmosis IBC rate limiting contract"
       }
     ],
     "accounts": []

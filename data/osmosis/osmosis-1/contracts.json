@@ -3,18 +3,18 @@
     "slug": "ion-dao",
     "name": "Staking Governance",
     "address": "osmo1yg8930mj8pk288lmkjex0qz85mj8wgtns5uzwyn2hs25pwdnw42sf745wc",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
+    "description": "ION DAO governance staking contract"
   },
   {
     "slug": "ion-dao",
     "name": "Governance",
     "address": "osmo1k8re7jwz6rnnwrktnejdwkwnncte7ek7gt29gvnl3sdrg9mtnqkse6nmqm",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
+    "description": "ION DAO governance contract"
   },
   {
     "slug": "osmosis",
     "name": "IBC Rate Limiting",
     "address": "osmo17r7qdw2zk6jyw62cvwm6flmhtj9q7zd26r8zc6sqyf0pnaq46cfss8hgxg",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
+    "description": "Osmosis IBC rate limiting contract"
   }
 ]

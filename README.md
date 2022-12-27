@@ -58,7 +58,7 @@ Contains all of the labelled contract addresses on the network belonging to the 
 
 ```ts
 type Contract = {
-    // The slug identifier for the owner entity
+    // The slug identifier for the contract's owner entity
     slug: string
     // The short description of the smart contract
     name: string
@@ -69,13 +69,36 @@ type Contract = {
 }
 ```
 
+### Assets
+
+Contains information related to on-chain assets on each network
+
+```ts
+type Asset = {
+    // The slug identifier for the asset's entity
+    slug: string
+    // Name of the asset
+    name: string
+    // Asset symbol
+    symbol: string
+    // URL link to image file. 
+    logo: string
+    // Type of assets. Either 'native' or 'cw20'
+    type: string
+    // Denom for 'native' or contract address for 'cw20'
+    id: string
+    // Asset precision
+    precision: string
+}
+```
+
 ### Accounts
 
 Contains all of the labelled accounts on the network belonging to the known entities.
 
 ```ts
 type Account = {
-    // The slug identifier for the owner entity
+    // The slug identifier for the account's owner entity
     slug: string
     // The short description of the account
     name: string

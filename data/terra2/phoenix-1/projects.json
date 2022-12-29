@@ -866,13 +866,55 @@
   },
   {
     "slug": "edge",
-    "contracts": [],
-    "codes": [],
+    "contracts": [
+      {
+        "name": "Pool",
+        "address": "terra1578x6m86q623uajchjdxsxc7v6f68k22ggzcnctraqc7p85s99kqja53sx",
+        "description": "Edge pool contract that handles deposits/withdrawals and hold the market's assets."
+      },
+      {
+        "name": "Liquidator",
+        "address": "terra1fhw3z8ypqde9stafphg3w2hld98sp3hcas9hgsz6wqjxlvedrc5sprswnq",
+        "description": "Edge liquidator contract."
+      },
+      {
+        "name": "Oracle",
+        "address": "terra1lpxzrpzkfrzfuz8z6svqly0szpz98aj9c6z77wz5lmchnk7zmp2q2enyxv",
+        "description": "Edge oracle contract responsible for updating and returning the supported asset prices to the pool."
+      }
+    ],
+    "codes": [
+      {
+        "name": "eToken",
+        "id": 895,
+        "description": "Edge eToken code"
+      },
+      {
+        "name": "Pool",
+        "id": 896,
+        "description": "Edge pool code"
+      },
+      {
+        "name": "Oracle",
+        "id": 897,
+        "description": "Edge oracle code"
+      },
+      {
+        "name": "Liquidator",
+        "id": 898,
+        "description": "Edge liquidator oracle"
+      }
+    ],
     "accounts": [
       {
         "name": "Emergency Allocation Receiver",
         "address": "terra1532yxrh3n9gux2420nr85lav66k9tgxreq2936",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
+      },
+      {
+        "name": "Admin",
+        "address": "terra15p7gex75vygne54xzlwdvxl20uzh5jzuje8hgh",
+        "description": "Address used as admin in protocol contracts"
       }
     ]
   },

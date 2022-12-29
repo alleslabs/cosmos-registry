@@ -508,5 +508,23 @@
     "name": "Token Bridge",
     "address": "terra153366q50k7t8nn7gec00hg66crnhkdggpgdtaxltaq6xrutkkz3s992fw9",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
+  },
+  {
+    "slug": "edge",
+    "name": "Pool",
+    "address": "terra1578x6m86q623uajchjdxsxc7v6f68k22ggzcnctraqc7p85s99kqja53sx",
+    "description": "Edge pool contract that handles deposits/withdrawals and hold the market's assets."
+  },
+  {
+    "slug": "edge",
+    "name": "Liquidator",
+    "address": "terra1fhw3z8ypqde9stafphg3w2hld98sp3hcas9hgsz6wqjxlvedrc5sprswnq",
+    "description": "Edge liquidator contract."
+  },
+  {
+    "slug": "edge",
+    "name": "Oracle",
+    "address": "terra1lpxzrpzkfrzfuz8z6svqly0szpz98aj9c6z77wz5lmchnk7zmp2q2enyxv",
+    "description": "Edge oracle contract responsible for updating and returning the supported asset prices to the pool."
   }
 ]

@@ -12,9 +12,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "astroport"
-    ],
+    "slug": ["astroport"],
     "name": "Astroport",
     "symbol": "ASTRO",
     "logo": "https://app.astroport.fi/tokens/astro.svg",
@@ -26,9 +24,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "astroport"
-    ],
+    "slug": ["astroport"],
     "name": "Staked Astroport",
     "symbol": "xASTRO",
     "logo": "https://app.astroport.fi/tokens/xAstro.png",
@@ -40,10 +36,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "axelar",
-      "aave"
-    ],
+    "slug": ["axelar", "aave"],
     "name": "Axelar AAVE",
     "symbol": "axlAAVE",
     "logo": "https://assets.terra.money/icon/svg/ibc/axlAAVE.svg",
@@ -55,10 +48,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "axelar",
-      "chainlink"
-    ],
+    "slug": ["axelar", "chainlink"],
     "name": "Axelar ChainLink",
     "symbol": "axlLINK",
     "logo": "https://assets.terra.money/icon/svg/ibc/axlLINK.svg",
@@ -70,10 +60,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "axelar",
-      "makerdao"
-    ],
+    "slug": ["axelar", "makerdao"],
     "name": "Axelar DAI",
     "symbol": "axlDAI",
     "logo": "https://assets.terra.money/icon/svg/ibc/axlDAI.svg",
@@ -85,10 +72,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "axelar",
-      "frax"
-    ],
+    "slug": ["axelar", "frax"],
     "name": "Axelar Frax",
     "symbol": "axlFRAX",
     "logo": "https://assets.terra.money/icon/svg/ibc/axlFRAX.svg",
@@ -100,10 +84,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "axelar",
-      "polygon"
-    ],
+    "slug": ["axelar", "polygon"],
     "name": "Axelar Matic",
     "symbol": "axlMATIC",
     "logo": "https://assets.terra.money/icon/svg/ibc/axlMATIC.svg",
@@ -115,10 +96,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "axelar",
-      "uniswap"
-    ],
+    "slug": ["axelar", "uniswap"],
     "name": "Axelar Uniswap",
     "symbol": "axlUNI",
     "logo": "https://assets.terra.money/icon/svg/ibc/axlUNI.svg",
@@ -130,10 +108,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "axelar",
-      "circle"
-    ],
+    "slug": ["axelar", "circle"],
     "name": "Axelar USD Coin",
     "symbol": "axlUSDC",
     "logo": "https://assets.terra.money/icon/svg/ibc/axlUSDC.svg",
@@ -145,10 +120,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "axelar",
-      "circle"
-    ],
+    "slug": ["axelar", "circle"],
     "name": "Axelar USD Tether",
     "symbol": "axlUSDT",
     "logo": "https://assets.terra.money/icon/svg/ibc/axlUSDT.svg",
@@ -160,10 +132,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "axelar",
-      "bitcoin"
-    ],
+    "slug": ["axelar", "bitcoin"],
     "name": "Axelar Wrapped Bitcoin",
     "symbol": "axlWBTC",
     "logo": "https://assets.terra.money/icon/svg/ibc/axlWBTC.svg",
@@ -175,10 +144,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "axelar",
-      "ethereum"
-    ],
+    "slug": ["axelar", "ethereum"],
     "name": "Axelar Wrapped Ethereum",
     "symbol": "axlWETH",
     "logo": "https://assets.terra.money/icon/svg/ibc/axlETH.svg",
@@ -190,9 +156,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "backbone-labs"
-    ],
+    "slug": ["backbone-labs"],
     "name": "boneLuna",
     "symbol": "bLUNA",
     "logo": "https://i.imgur.com/8CpJdcB.jpeg",
@@ -204,9 +168,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "cosmos-hub"
-    ],
+    "slug": ["cosmos-hub"],
     "name": "Cosmos",
     "symbol": "ATOM",
     "logo": "https://assets.terra.money/icon/svg/ibc/ATOM.svg",
@@ -218,9 +180,7 @@
     "coinmarketcap": "https://coinmarketcap.com/currencies/cosmos/"
   },
   {
-    "slug": [
-      "crescent"
-    ],
+    "slug": ["crescent"],
     "name": "Crescent Network",
     "symbol": "CRE",
     "logo": "https://assets.terra.money/icon/svg/ibc/CRE.svg",
@@ -232,9 +192,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "eris"
-    ],
+    "slug": ["eris"],
     "name": "Eris Amplified LUNA",
     "symbol": "ampLUNA",
     "logo": "https://www.erisprotocol.com/en-US/assets/ampLuna100.png",
@@ -258,9 +216,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "graviton"
-    ],
+    "slug": ["graviton"],
     "name": "Graviton",
     "symbol": "GRAV",
     "logo": "https://assets.terra.money/icon/svg/ibc/GRAV.svg",
@@ -272,9 +228,7 @@
     "coinmarketcap": "https://coinmarketcap.com/currencies/grav/"
   },
   {
-    "slug": [
-      "juno"
-    ],
+    "slug": ["juno"],
     "name": "Juno",
     "symbol": "JUNO",
     "logo": "https://assets.terra.money/icon/svg/ibc/JUNO.svg",
@@ -286,9 +240,7 @@
     "coinmarketcap": "https://coinmarketcap.com/currencies/juno/"
   },
   {
-    "slug": [
-      "kujira"
-    ],
+    "slug": ["kujira"],
     "name": "Kujira",
     "symbol": "KUJI",
     "logo": "https://assets.terra.money/icon/svg/ibc/KUJI.svg",
@@ -300,9 +252,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "kujira"
-    ],
+    "slug": ["kujira"],
     "name": "USK",
     "symbol": "USK",
     "logo": "https://assets.terra.money/icon/svg/ibc/USK.svg",
@@ -314,9 +264,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "lira"
-    ],
+    "slug": ["lira"],
     "name": "Lira",
     "symbol": "LIRA",
     "logo": "https://lira.financial/images/icons/lira.svg",
@@ -328,9 +276,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "luna-bird"
-    ],
+    "slug": ["luna-bird"],
     "name": "Luna Bird",
     "symbol": "LUBI",
     "logo": "https://www.lunabird.network/logo.png",
@@ -342,9 +288,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "orne"
-    ],
+    "slug": ["orne"],
     "name": "Orne",
     "symbol": "ORNE",
     "logo": "https://orne.io/img/token_icon.png",
@@ -356,9 +300,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "osmosis"
-    ],
+    "slug": ["osmosis"],
     "name": "Osmosis",
     "symbol": "OSMO",
     "logo": "https://assets.terra.money/icon/svg/ibc/OSMO.svg",
@@ -370,9 +312,7 @@
     "coinmarketcap": "https://coinmarketcap.com/currencies/osmosis/"
   },
   {
-    "slug": [
-      "dinheiros"
-    ],
+    "slug": ["dinheiros"],
     "name": "dinheiro",
     "symbol": "Dinheiros",
     "logo": "https://static.wixstatic.com/media/1e62a0_04207897171e4f5c8931295172b3e34c~mv2.png",
@@ -408,9 +348,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "redacted-money"
-    ],
+    "slug": ["redacted-money"],
     "name": "Red",
     "symbol": "RED",
     "logo": "https://red.redacted.money/red.svg",
@@ -422,9 +360,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "secret"
-    ],
+    "slug": ["secret"],
     "name": "Secret",
     "symbol": "SCRT",
     "logo": "https://assets.terra.money/icon/svg/ibc/SCRT.svg",
@@ -436,10 +372,7 @@
     "coinmarketcap": "https://coinmarketcap.com/currencies/secret/"
   },
   {
-    "slug": [
-      "wormhole",
-      "stader"
-    ],
+    "slug": ["wormhole", "stader"],
     "name": "Stader (Wormhole)",
     "symbol": "SD",
     "logo": "https://raw.githubusercontent.com/stader-labs/assets/main/terra/SD_Token.png",
@@ -451,9 +384,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "stader"
-    ],
+    "slug": ["stader"],
     "name": "Stader LunaX Token",
     "symbol": "LunaX",
     "logo": "https://raw.githubusercontent.com/stader-labs/assets/main/terra/LunaX_1.png",
@@ -465,9 +396,7 @@
     "coinmarketcap": "https://coinmarketcap.com/currencies/stader-lunax/"
   },
   {
-    "slug": [
-      "steak"
-    ],
+    "slug": ["steak"],
     "name": "Steak Token",
     "symbol": "STEAK",
     "logo": "https://liquidstaking.app/steak.png",
@@ -479,9 +408,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "terra"
-    ],
+    "slug": ["terra"],
     "name": "Luna",
     "symbol": "LUNA",
     "logo": "https://assets.terra.money/icon/svg/Luna.svg",
@@ -493,9 +420,7 @@
     "coinmarketcap": "https://coinmarketcap.com/currencies/terra-luna-v2/"
   },
   {
-    "slug": [
-      "terra-poker"
-    ],
+    "slug": ["terra-poker"],
     "name": "Terra Poker Token",
     "symbol": "TPT",
     "logo": "https://terra.poker/ico/ms-icon-310x310.png",
@@ -507,9 +432,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "terra-poker"
-    ],
+    "slug": ["terra-poker"],
     "name": "xTPT",
     "symbol": "xTPT",
     "logo": "https://terra.poker/ico/ms-icon-310x310.png",
@@ -521,9 +444,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "terrafloki"
-    ],
+    "slug": ["terrafloki"],
     "name": "TerraFloki",
     "symbol": "TFLOKI",
     "logo": "https://terrafloki.io/tf-logo.png",
@@ -535,9 +456,7 @@
     "coinmarketcap": "https://coinmarketcap.com/currencies/terrafloki/"
   },
   {
-    "slug": [
-      "valkyrie"
-    ],
+    "slug": ["valkyrie"],
     "name": "Valkyrie Token",
     "symbol": "VKR",
     "logo": "https://app.valkyrieprotocol.com/icon_vkr.png",
@@ -549,10 +468,7 @@
     "coinmarketcap": "https://coinmarketcap.com/currencies/valkyrie-protocol/"
   },
   {
-    "slug": [
-      "wormhole",
-      "avalanche"
-    ],
+    "slug": ["wormhole", "avalanche"],
     "name": "Wrapped AVAX (Wormhole)",
     "symbol": "WAVAX",
     "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AVAX_wh.png",
@@ -564,10 +480,7 @@
     "coinmarketcap": "https://coinmarketcap.com/currencies/wavax/"
   },
   {
-    "slug": [
-      "wormhole",
-      "ethereum"
-    ],
+    "slug": ["wormhole", "ethereum"],
     "name": "Wrapped Ether (Wormhole)",
     "symbol": "WETH",
     "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
@@ -579,10 +492,7 @@
     "coinmarketcap": "https://coinmarketcap.com/currencies/weth/"
   },
   {
-    "slug": [
-      "wormhole",
-      "solana"
-    ],
+    "slug": ["wormhole", "solana"],
     "name": "Wrapped SOL (Wormhole)",
     "symbol": "SOL",
     "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
@@ -594,10 +504,7 @@
     "coinmarketcap": "https://coinmarketcap.com/currencies/wrapped-solana/"
   },
   {
-    "slug": [
-      "wormhole",
-      "mirror"
-    ],
+    "slug": ["wormhole", "mirror"],
     "name": "Apple (Wormhole)",
     "symbol": "mAAPL",
     "logo": "",
@@ -633,9 +540,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "wicca"
-    ],
+    "slug": ["wicca"],
     "name": "bLuna",
     "symbol": "bLuna",
     "logo": "",
@@ -647,9 +552,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "wicca"
-    ],
+    "slug": ["wicca"],
     "name": "BTC",
     "symbol": "BTC",
     "logo": "",
@@ -661,9 +564,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "wicca"
-    ],
+    "slug": ["wicca"],
     "name": "BURN",
     "symbol": "BURN",
     "logo": "",
@@ -675,10 +576,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "wormhole",
-      "binance"
-    ],
+    "slug": ["wormhole", "binance"],
     "name": "BUSD Token (Wormhole)",
     "symbol": "BUSD",
     "logo": "",
@@ -690,9 +588,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "wicca"
-    ],
+    "slug": ["wicca"],
     "name": "ETH  in USDC",
     "symbol": "uETH",
     "logo": "",
@@ -740,9 +636,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "wicca"
-    ],
+    "slug": ["wicca"],
     "name": "Gidorah",
     "symbol": "gido",
     "logo": "",
@@ -754,9 +648,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "wicca"
-    ],
+    "slug": ["wicca"],
     "name": "HERO",
     "symbol": "HERO",
     "logo": "",
@@ -780,10 +672,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "wormhole",
-      "local"
-    ],
+    "slug": ["wormhole", "local"],
     "name": "Local Terra Token (Wormhole)",
     "symbol": "LOCAL",
     "logo": "",
@@ -795,10 +684,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "wormhole",
-      "terra"
-    ],
+    "slug": ["wormhole", "terra"],
     "name": "Luna Classic (Wormhole)",
     "symbol": "LUNC",
     "logo": "https://assets.terra.money/icon/svg/LUNC.svg",
@@ -822,10 +708,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "wormhole",
-      "mirror"
-    ],
+    "slug": ["wormhole", "mirror"],
     "name": "Microsoft Corporation (Wormhole)",
     "symbol": "mMSFT",
     "logo": "",
@@ -837,9 +720,7 @@
     "coinmarketcap": "https://coinmarketcap.com/currencies/mirrored-microsoft/"
   },
   {
-    "slug": [
-      "wicca"
-    ],
+    "slug": ["wicca"],
     "name": "MOON",
     "symbol": "MOON",
     "logo": "",
@@ -911,9 +792,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "wicca"
-    ],
+    "slug": ["wicca"],
     "name": "Pce",
     "symbol": "Pce",
     "logo": "",
@@ -925,9 +804,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "prism"
-    ],
+    "slug": ["prism"],
     "name": "prism-cluna",
     "symbol": "CLUNA",
     "logo": "",
@@ -951,9 +828,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "wicca"
-    ],
+    "slug": ["wicca"],
     "name": "StableDao",
     "symbol": "SDO",
     "logo": "",
@@ -977,10 +852,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "wormhole",
-      "tether"
-    ],
+    "slug": ["wormhole", "tether"],
     "name": "Tether USD (Wormhole)",
     "symbol": "USDT",
     "logo": "",
@@ -1016,9 +888,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "wicca"
-    ],
+    "slug": ["wicca"],
     "name": "USD ",
     "symbol": "USD",
     "logo": "",
@@ -1030,10 +900,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "wormhole",
-      "circle"
-    ],
+    "slug": ["wormhole", "circle"],
     "name": "USD Coin (Wormhole)",
     "symbol": "USDC",
     "logo": "",
@@ -1045,9 +912,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "wicca"
-    ],
+    "slug": ["wicca"],
     "name": "USDC",
     "symbol": "USDC",
     "logo": "",
@@ -1059,10 +924,7 @@
     "coinmarketcap": ""
   },
   {
-    "slug": [
-      "wormhole",
-      "terra"
-    ],
+    "slug": ["wormhole", "terra"],
     "name": "UST (Wormhole)",
     "symbol": "UST",
     "logo": "",
@@ -1072,5 +934,29 @@
     "precision": "6",
     "coingecko": "https://www.coingecko.com/en/coins/terrausd-wormhole",
     "coinmarketcap": "https://coinmarketcap.com/currencies/terrausd-wormhole/"
+  },
+  {
+    "slug": ["edge", "axelar", "circle"],
+    "name": "Edge AxlUSDC",
+    "symbol": "eaxlUSDC",
+    "logo": "",
+    "description": "",
+    "type": "cw20",
+    "id": "terra1fjane47sgaaljgm0qe0ysjwtuqjlp493ar4gwt8rez45qaazf9gsfgc6af",
+    "precision": "6",
+    "coingecko": "",
+    "coinmarketcap": ""
+  },
+  {
+    "slug": ["edge", "terra"],
+    "name": "Edge LUNA",
+    "symbol": "eLUNA",
+    "logo": "",
+    "description": "",
+    "type": "cw20",
+    "id": "terra15a409g7juszev4k88pvvvh80654903k7q00qtlddjasqynhjj45qzvk893",
+    "precision": "6",
+    "coingecko": "",
+    "coinmarketcap": ""
   }
 ]

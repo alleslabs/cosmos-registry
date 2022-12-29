@@ -240,6 +240,12 @@
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
   },
   {
+    "slug": "edge",
+    "name": "Admin",
+    "address": "terra15p7gex75vygne54xzlwdvxl20uzh5jzuje8hgh",
+    "description": "Address used as admin in protocol contracts"
+  },
+  {
     "slug": "cyberdeck",
     "name": "Emergency Allocation Receiver",
     "address": "terra1t7awtndqgc2t2289rfevry3p5pw0lg3lzz6qcn",

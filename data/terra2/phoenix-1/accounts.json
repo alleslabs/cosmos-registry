@@ -24,7 +24,7 @@
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
   },
   {
-    "slug": "Knowhere",
+    "slug": "knowhere",
     "name": "Emergency Allocation Receiver",
     "address": "terra1fhgcg9jh4kgdl5v63wwfgh7kv5megs22pvadwv",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
@@ -168,7 +168,7 @@
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
   },
   {
-    "slug": "tfl",
+    "slug": "terra",
     "name": "Account 1",
     "address": "terra1dp0taj85ruc299rkdvzp4z5pfg6z6swaed74e6",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
@@ -324,7 +324,7 @@
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
   },
   {
-    "slug": "kado-money",
+    "slug": "kado",
     "name": "Emergency Allocation Receiver",
     "address": "terra17qpf86uk800le0wmwmvf3khyy40ywrrdd5wa3c",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
@@ -372,13 +372,13 @@
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
   },
   {
-    "slug": "eris-protocol",
+    "slug": "eris",
     "name": "Account 1",
     "address": "terra1kefa2zgjn45ctj32d3tje5jdwus7px6n2klgzl",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."
   },
   {
-    "slug": "eris-protocol",
+    "slug": "eris",
     "name": "Emergency Allocation Receiver",
     "address": "terra1alxk3fmhcl0ga80gl9yj9zp3ezjm4sdh8a9l9c",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend."

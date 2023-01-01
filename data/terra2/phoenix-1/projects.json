@@ -228,7 +228,7 @@
     ]
   },
   {
-    "slug": "Knowhere",
+    "slug": "knowhere",
     "contracts": [
       {
         "name": "Marketplace",
@@ -740,7 +740,7 @@
     ]
   },
   {
-    "slug": "tfl",
+    "slug": "terra",
     "contracts": [],
     "codes": [],
     "accounts": [
@@ -1075,7 +1075,7 @@
     ]
   },
   {
-    "slug": "kado-money",
+    "slug": "kado",
     "contracts": [],
     "codes": [],
     "accounts": [
@@ -1171,7 +1171,7 @@
     ]
   },
   {
-    "slug": "eris-protocol",
+    "slug": "eris",
     "contracts": [],
     "codes": [],
     "accounts": [

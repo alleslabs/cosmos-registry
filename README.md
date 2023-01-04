@@ -23,7 +23,7 @@ type Entity = {
     github: string,
     // The filename of the entity's logo located in assets/entities
     logo: string,
-    // The list of the entity's supported social media info
+    // The list of the entity's supported social media info. Currently supports Twitter, Telegram,  and Discord
     socials: Social[3]
 }
 ```
@@ -45,7 +45,7 @@ type Code = {
     slug: string
     // The name describing the code
     name: string
-    // The ID of the code on-chain
+    // The ID number of the code on-chain
     id: string
     // A short description of the code
     description: string | undefined
@@ -125,3 +125,12 @@ type Project = {
     accounts: Account[]
 }
 ```
+
+
+## Acknowledgement
+
+Initial dataset for the registry was aggregated from the following sources:
+
+- [Coinhall](https://coinhall.org)'s [yacar](https://github.com/coinhall/yacar)
+- [Osmosis](https://osmosis.zone)'s [assetlists](https://github.com/osmosis-labs/assetlists)
+- [Terra](https://terra.money)'s [assets](https://github.com/terra-money/assets)

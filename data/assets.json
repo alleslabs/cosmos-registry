@@ -3044,6 +3044,6 @@
     "precision": 6,
     "slugs": ["neutron"],
     "symbol": "ECLIP",
-    "type": "native"
+    "type": "cw20"
   }
 ]

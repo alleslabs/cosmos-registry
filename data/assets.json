@@ -3029,5 +3029,22 @@
     "slugs": ["stader", "polygon"],
     "symbol": "wstETH",
     "type": "native"
+  },
+  {
+    "coingecko": "eclipse-fi",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/eclipse-fi/",
+    "circ_supply_api": "https://eclipsepad-api.herokuapp.com/current-circulating-supply",
+    "description": "Eclipse Fi Token ECLIP",
+    "id": {
+      "neutron": {
+        "neutron-1": "factory/neutron10sr06r3qkhn7xzpw3339wuj77hu06mzna6uht0/eclip"
+      }
+    },
+    "logo": "https://i.ibb.co/YDfj90h/ss-1.png",
+    "name": "Eclipse Fi",
+    "precision": 6,
+    "slugs": ["eclipse"],
+    "symbol": "ECLIP",
+    "type": "cw20"
   }
 ]

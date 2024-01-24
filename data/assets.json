@@ -3033,6 +3033,7 @@
   {
     "coingecko": "eclipse-fi",
     "coinmarketcap": "https://coinmarketcap.com/currencies/eclipse-fi/",
+    "circ_supply_api": "https://eclipsepad-api.herokuapp.com/current-circulating-supply",
     "description": "Eclipse Fi Token ECLIP",
     "id": {
       "neutron": {
